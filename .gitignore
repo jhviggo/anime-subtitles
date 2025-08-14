@@ -1,0 +1,10 @@
+*.*
+!.gitattributes
+!.gitignore
+!readme.md
+
+!*.srt
+!**/*.srt
+!*.vtt
+!**/*.vtt
+
